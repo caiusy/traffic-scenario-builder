@@ -2,6 +2,9 @@
 
 A Python-based GUI tool for creating simple traffic scenarios, visualizing vehicle trajectories, and deploying simulated cameras. Built with PyQt6 and OpenCV.
 
+![Cover](cover.png)
+
+### Demo
 ![Demo](demo.gif)
 
 
