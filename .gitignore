@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/
+*.mp4
+*.json
+verify_assets.py
+process_assets.py
+vehicle_editor_fixed copy.py
+assets_source/
